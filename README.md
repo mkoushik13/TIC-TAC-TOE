@@ -35,7 +35,7 @@ A live demo of the Tic-Tac-Toe game can be found [here](#).
 2. Navigate to the project directory:
 
     ```sh
-    cd tic-tac-toe
+    cd TIC-TAC-TOE
     ```
 
 ## Usage
@@ -48,7 +48,7 @@ A live demo of the Tic-Tac-Toe game can be found [here](#).
 ## Project Structure
 
 ```plaintext
-tic-tac-toe/
+TIC-TAC-TOE/
 │
 ├── index.html       # HTML file for the game layout
 ├── style.css        # CSS file for the game styling
