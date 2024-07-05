@@ -29,7 +29,7 @@ A live demo of the Tic-Tac-Toe game can be found [here](#).
 1. Clone the repository to your local machine:
 
     ```sh
-    git clone https://github.com/your-username/tic-tac-toe.git
+    git clone https://github.com/mkoushik13/TIC-TAC-TOE.git
     ```
 
 2. Navigate to the project directory:
